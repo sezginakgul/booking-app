@@ -12,5 +12,5 @@
 - React-router
 - Redux-toolkit
 - Redux-persist
-- Moment
+- Moment.js
 - Bootstrap
