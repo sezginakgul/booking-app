@@ -37,3 +37,33 @@
     transform: translateY(0px);
   }
 }
+
+.tag {
+  border-radius: 5px;
+  padding: 0.1rem 0.3rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+.tag.green {
+  background-color: #1b5e20;
+  color: white;
+}
+
+.tag.orange {
+  background-color: #f57f17;
+  color: white;
+}
+
+.tag.red {
+  background-color: #7f0000;
+  color: white;
+}
+
+.side-line {
+  transition: all ease-in-out 0.25s;
+}
+
+.side-line:hover {
+  background-color: rgb(191, 191, 191);
+}
